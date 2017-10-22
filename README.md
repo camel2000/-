@@ -5,7 +5,8 @@
 
 
 
-项目用Python语言所写，神经网络的实现用到了Google的tensorflow-1.0.1
+项目用Python语言所写，神经网络的实现用到了Google的tensorflow-1.0.1 
+
 1）my_biLSTM_multilayer_CWS.py 
 此文件定义搭建的多层BLSTM模型和执行迭代训练，首先要运行此文件，训练联合框架。
 
